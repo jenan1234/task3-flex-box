@@ -1,0 +1,16 @@
+div{
+height: 30px;
+width: 80px;
+background: rgb(146, 146, 26);
+color: brown;
+transition: 4s;
+}
+
+div:hover{
+height:100%;
+width:400px;
+ background:red
+ color(srgb rgba(255, 0, 0, 0.321) rgba(0, 128, 0, 0.288) rgba(0, 0, 255, 0.238))
+}
+
+

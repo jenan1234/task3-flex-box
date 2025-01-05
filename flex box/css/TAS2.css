@@ -1,0 +1,16 @@
+.task2-main .navbar img{
+    width: 100px;
+}
+
+.task2-main .navbar .right-side{
+display: flex;
+width: 30%;
+justify-content: space-around;
+    }
+
+    .task2-main .navbar .right-side a{
+        text-decoration: none;
+        font-size: 20px;
+
+    }
+

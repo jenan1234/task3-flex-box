@@ -1,0 +1,39 @@
+body {
+    margin: 0;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    height: 100vh;
+    background-color: #ffffff;
+   
+}
+
+.container {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    height: 100%;
+    width: 100%;
+   
+}
+
+.box {
+    width: 400px;
+    height: 400px;
+    border: 2px solid blue; 
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    border-radius: 20px;
+}
+.BOXf {
+    width: 90px;
+    height: 40px;
+    background-color: rgba(133, 108, 207, 0.499); 
+    color: white; 
+    display: flex;
+    justify-content: center;
+    align-items: center;
+   
+}
+
